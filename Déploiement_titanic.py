@@ -11,7 +11,7 @@ st.image("https://c4.wallpaperflare.com/wallpaper/621/139/660/night-ice-uk-trans
 
 st.set_page_config(
     # page_title="Mon Application"
-    page_icon="https://www.google.com/imgres?q=icone%20bateau&imgurl=https%3A%2F%2Fcdn-icons-png.flaticon.com%2F512%2F3286%2F3286437.png&imgrefurl=https%3A%2F%2Fwww.flaticon.com%2Ffr%2Ficone-gratuite%2Fbateau_3286437&docid=93j-ry_xoo2FqM&tbnid=gDLcV_Xh3El0zM&vet=12ahUKEwiK-NeP_pOMAxWhUqQEHeCpE2oQM3oECCoQAA..i&w=512&h=512&hcb=2&ved=2ahUKEwiK-NeP_pOMAxWhUqQEHeCpE2oQM3oECCoQAA"  # Mets ici le chemin vers ton image
+    page_icon="📛"  # Mets ici le chemin vers ton image
 )
 
 # Entrées utilisateur
